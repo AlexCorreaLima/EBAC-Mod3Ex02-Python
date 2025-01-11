@@ -5,9 +5,10 @@ Exercícios com NumPy
 
 Este repositório contém soluções para uma série de exercícios utilizando a biblioteca NumPy para processamento e cálculos em Python.
 
+
 Estrutura dos Exercícios
 
-1) Alturas
+#1) Alturas
 
 Objetivo: Trabalhar com arrays do NumPy para armazenar e transformar dados relacionados a alturas.
 
@@ -21,7 +22,8 @@ Resultado Esperado:
 
 Alturas em centímetros e em metros como arrays NumPy.
 
-2) IMC
+
+#2) IMC
 
 Objetivo: Calcular o Índice de Massa Corporal (IMC) utilizando operações aritméticas de arrays.
 
@@ -35,7 +37,8 @@ Resultado Esperado:
 
 Um array contendo os valores de IMC calculados para cada pessoa.
 
-3) Endividamento
+
+#3) Endividamento
 
 Objetivo: Realizar operações financeiras utilizando arrays NumPy.
 
@@ -53,7 +56,8 @@ Resultado Esperado:
 
 Array com os valores de endividamento total antes e após a correção.
 
-4) Tratamento de Valores Especiais
+
+#4) Tratamento de Valores Especiais
 
 Objetivo: Identificar e tratar valores especiais em arrays NumPy.
 
@@ -88,6 +92,7 @@ Execute o código no seu ambiente Python preferido (por exemplo, Jupyter Noteboo
 Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorias e novos exercícios. 
+
 
 Autor: [ALEX SCL]
 
